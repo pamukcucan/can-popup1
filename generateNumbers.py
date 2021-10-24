@@ -3,7 +3,7 @@ import random
 def generateNumbers() :
     lis = []
     for i in range(10) :
-        
+        #duplicate check
         r = random.randint(1,10)
         if r not in lis :
             lis.append(r)
