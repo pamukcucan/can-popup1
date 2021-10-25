@@ -1,4 +1,4 @@
-# Get Numbers
+# Generate Numbers
 
 This project is a python script aiming to generate numbers from 1 to 10 in random order.
 
