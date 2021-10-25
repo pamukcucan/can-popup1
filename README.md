@@ -30,13 +30,13 @@ Select PythonLauncher as the default application to open your script (or any .py
 
 ## Running program on Linux
 
-Save the getNumbers.py file to a specific location in your system and then follow the steps below to run it:
+Save the generateNumbers.py file to a specific location in your system and then follow the steps below to run it:
 
 Open the terminal by searching for it in the dashboard or pressing Ctrl + Alt + T.
 
 Navigate the terminal to the directory where the script is located using the cd command.
 
-Type python getNumbers.py in the terminal to execute the script.
+Type python generateNumbers.py in the terminal to execute the script.
 
 If the script is python3, use python3 in the terminal command:python3 getNumbers.py
 
